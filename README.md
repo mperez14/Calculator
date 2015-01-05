@@ -9,3 +9,5 @@ Functions:
 2)subtraction
 3)multiplication
 4)division
+
+Can calculate integers and floats
